@@ -1,3 +1,5 @@
 node_modules/
 .env
-Detail.txt
+.env.*
+*/.env
+
